@@ -15,6 +15,7 @@ def print_hi(name):
 def print_hello_and_excuse():
     print('Hello')
     print('Excuse me')
+    print()
 
 
 # Press the green button in the gutter to run the script.
