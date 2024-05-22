@@ -12,6 +12,12 @@ def print_hi(name):
     print('I am your friend')
 
 
+def print_hello_and_excuse():
+    print('Hello')
+    print('Excuse me')
+    print()
+
+
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('PyCharm')
