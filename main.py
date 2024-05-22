@@ -9,6 +9,7 @@ def print_hi(name):
     print('Bye enemy')
     print('Hello again')
     print('I am your friend')
+    print()
 
 
 def print_hello_and_excuse():
