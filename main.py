@@ -6,7 +6,7 @@
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
-    print('Bye enemy')
+    print('Bye enemy & friend')
     print('Hello again')
     print('I am your friend')
 
