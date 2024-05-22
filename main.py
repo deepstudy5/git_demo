@@ -10,6 +10,7 @@ def print_hi(name):
     print('Hello again')
     print('I am your friend')
     print()
+    print()
 
 
 def print_hello_and_excuse():
